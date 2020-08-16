@@ -1,0 +1,10 @@
+{
+  "type": "postgres",
+  "host": "localhost",
+  "port": 5432,
+  "username": "netodevx",
+  "password": "projetos",
+  "database": "nestjs-api",
+  "entities": ["dist/**/*.entity{.ts,.js}"],
+  "synchronize": true
+}
